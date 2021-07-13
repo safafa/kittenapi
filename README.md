@@ -1,7 +1,6 @@
-# README
+# Kittenapi
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A data-producing API rails application. see the full project requierements in [Theodinproject](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails/lessons/kittens-api)
 
 Things you may want to cover:
 
